@@ -1,0 +1,11 @@
+Hướng dẫn import thư viện numpy
+Vào terminal 
+viết: pip install numpy
+Cách nhập file Nhap.txt: Nhập kích thước ma trận
+
+VD: với ma trận 4x4
+1 2 3 4
+1 4 5 2
+3 6 9 8
+8 5 2 1
+
